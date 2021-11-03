@@ -1,0 +1,29 @@
+.main-img{
+    max-height: 500px;
+    margin: 0 auto;
+}
+
+.ingredients{
+    width: 60%;
+    margin: 0 auto;
+}
+.steps{
+    max-width: 60%;
+    margin: 0 auto;
+}
+
+.recipe-container {
+    width: 50%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+
+}
+
+h1{
+    margin: 20px auto;
+}
+
+.desc{
+    margin: 0 auto;
+}
